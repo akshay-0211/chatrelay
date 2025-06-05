@@ -11,5 +11,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chatrelay.git
+git clone https://github.com/akshay-0211/chatrelay.git
 cd chatrelay
